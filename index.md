@@ -8,6 +8,9 @@ Dieser wird von seinem Bruder auf eine Reise begleitet.
 * Kann blitzschnell Karten zählen und gewinnt in Las Vegas viel Geld
 * Kann aber keine Beziehung zu Mitmenschen eingehen
 
+> Ich esse immer sechs Fischstäbchen
+
+
 
 
 
