@@ -1,1 +1,1 @@
-# Rainman - mein Lieblingsfilm (16:14)
+# Rainman - mein Lieblingsfilm
