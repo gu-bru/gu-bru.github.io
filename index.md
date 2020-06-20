@@ -10,6 +10,9 @@ Dieser wird von seinem Bruder auf eine Reise begleitet.
 
 > Ich esse immer sechs Fischstäbchen
 
+<img src="rainman.jpg"/>
+
+
 
 
 
