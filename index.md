@@ -1,6 +1,8 @@
 # Rain Man - mein Lieblingsfilm
 
-In diesem Film spiel Dustin Hoffmann einen Autisten.
+In diesem Film spielt Dustin Hoffmann einen Autisten.
+Dieser wird von seinem Bruder auf eine Reise begleitet.
+
 
 
 
